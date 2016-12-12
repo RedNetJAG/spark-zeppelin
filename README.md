@@ -1,5 +1,5 @@
 # spark-zeppelin
-A very lightweight box with spark and zeppelin.
+A very lightweight box with spark and zeppelin. Based on https://atlas.hashicorp.com/swal4u/boxes/spark-zeppelin/versions/1.0.1
 
 Requirements:
 
