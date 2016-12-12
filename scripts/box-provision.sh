@@ -38,7 +38,7 @@ echo "# Starting procceses...."
 echo "#######################################################################"
 start-master.sh
 start-slave.sh spark://spark.bd:7077 -m 2G
-zeppelin-daemon.sh
+zeppelin-daemon.sh start
 
 echo "#######################################################################"
 echo "# End provisioning"
