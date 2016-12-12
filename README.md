@@ -1,11 +1,12 @@
 # spark-zeppelin
 A very lightweight box with spark and zeppelin.
-Hard requirements
+
+Requirements
 
 2 cpu
 4 GB RAM
-Versions
 
+Versions:
 spark: 2.0.0
 zeppelin: 0.7
 base OS: bento/centos 7.2
