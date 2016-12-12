@@ -16,7 +16,7 @@ echo "export PYSPARK_PYTHON=python3" >> /home/vagrant/.bashrc
 source /home/vagrant/.bashrc
 
 echo "#######################################################################"
-echo "# install matplotlib numpy scipy scikit-learn pandas"
+echo "# install matplotlib numpy scipy scikit-learn pandas igraph"
 echo "#######################################################################"
 sudo yum -y install python-matplotlib
 sudo pip install -U numpy
