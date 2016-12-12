@@ -23,8 +23,6 @@ sudo pip install -U numpy
 sudo pip install -U scipy
 sudo pip install -U scikit-learn
 sudo pip install -U pandas
-sudo pip install -U igraph
-
 
 echo "#######################################################################"
 echo "# install scala 2.11"
